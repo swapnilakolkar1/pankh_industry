@@ -1,0 +1,14 @@
+{
+  "extends": [
+    "standard",
+    "plugin:prettier/recommended",
+    "plugin:react/recommended"
+  ],
+  "rules": {
+    "no-duplicate-imports": "error",
+    "no-extra-semi": "off",
+    "eqeqeq": "error",
+    "no-unused-vars": "off",
+    "no-debugger":"off"
+  }
+}
